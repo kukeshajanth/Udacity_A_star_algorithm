@@ -2,7 +2,7 @@
 
 A* search to implement a "Google-maps" style route planning algorithm and find the shortest path between two points.
 
-This project contains:
+## This project contains:
 
 helpers.py - functions for loading and displaying the maps.
 
