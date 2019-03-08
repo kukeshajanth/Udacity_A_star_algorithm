@@ -8,7 +8,7 @@ helpers.py - functions for loading and displaying the maps.
 
 map-10.pickle -  map with 10 nodes.
 
-map-40.pickle -  map with 40 nodes.
+map-40(1).pickle -  map with 40 nodes.
 
 A*_algo_project_notebook.ipynb - Jupyter notebook that contains all the algorithm
 
